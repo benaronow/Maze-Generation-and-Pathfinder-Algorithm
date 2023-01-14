@@ -1,4 +1,4 @@
-<h1>Maze Pathfinder Algorithm</h1>
+<h1>Maze Generation and Pathfinder Algorithm</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -112,55 +112,34 @@ Image Citations:
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b> 
-- <b>Swing</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the program: <br/>
-<img src="https://imgur.com/QQUIePe.png" height="80%" width="80%"/>
+<img src="https://imgur.com/rHKycvn.png" height="80%" width="80%"/>
 <br />
-<img src="https://imgur.com/l0JLVNd.png" height="80%" width="80%"/>
-<br />
-<br />
-Choose an image to edit:  <br/>
-<img src="https://imgur.com/AWBHmBX.png" height="80%" width="80%"/>
+<img src="https://imgur.com/i9HKOLi.png" height="80%" width="80%"/>
 <br />
 <br />
-Edit an image: <br/>
-<img src="https://imgur.com/DW2AcXw.png" height="80%" width="80%"/>
-<br />
-<img src="https://imgur.com/U7zuIO1.png" height="80%" width="80%"/>
+Press 'b' to begin a Breadth-First-Search (BFS):  <br/>
+<img src="https://imgur.com/VIVuwLt.png" height="80%" width="80%"/>
 <br />
 <br />
-Preview an edit:  <br/>
-<img src="https://imgur.com/6xvYM5X.png" height="80%" width="80%"/>
+View the completed BFS solution: <br/>
+<img src="https://imgur.com/SNktseT.png" height="80%" width="80%"/>
 <br />
 <br />
-Choose a mask to edit with:  <br/>
-<img src="https://imgur.com/A4xeuW1.png" height="80%" width="80%"/>
+Press 'd' to begin a Depth-First-Search (DFS):  <br/>
+<img src="https://imgur.com/7DHvnC0.png" height="80%" width="80%"/>
 <br />
 <br />
-Edit an image with a mask:  <br/>
-<img src="https://imgur.com/Af0CoBP.png" height="80%" width="80%"/>
+View the completed DFS solution:  <br/>
+<img src="https://imgur.com/wUAkSle.png" height="80%" width="80%"/>
 <br />
 <br />
-Import an image:  <br/>
-<img src="https://imgur.com/hzRUwzq.png" height="80%" width="80%"/>
-<br />
-<img src="https://imgur.com/bmYybfB.png" height="80%" width="80%"/>
-<br />
-<br />
-Imported images can be edited in the same manner:  <br/>
-<img src="https://imgur.com/IXdXbWz.png" height="80%" width="80%"/>
-<br />
-<br />
-Export an image:  <br/>
-<img src="https://imgur.com/XIG1Yko.png" height="80%" width="80%"/>
-<br />
-<br />
-Exported images can be viewed from your personal directory:  <br/>
-<img src="https://imgur.com/xRpLw4d.png" height="80%" width="80%"/>
+Press 'r' to create a new maze:  <br/>
+<img src="https://imgur.com/m9AhZdg.png" height="80%" width="80%"/>
 </p>
 
 <!--
