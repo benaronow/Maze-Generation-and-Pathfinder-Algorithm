@@ -4,12 +4,18 @@
 
 <h2>Description</h2>
 Description
-<br />
 
+<h2>External Dependencies</h2>
+The JAR files contained in the `Reference_Libraries` directory must first be installed as dependencies
+so that the program may compile.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Java</b> 
+- <b>Java</b>
+
+<h2>Environments Used</h2>
+
+- <b>Eclipse</b> 
 
 <h2>Program walk-through:</h2>
 
