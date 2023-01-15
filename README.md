@@ -6,7 +6,7 @@
 Description
 
 <h2>External Dependencies</h2>
-The JAR files contained in the `Reference_Libraries` directory must first be installed as dependencies
+The JAR files contained in the Reference_Libraries directory must first be installed as dependencies
 so that the program may compile.
 
 <h2>Languages and Utilities Used</h2>
