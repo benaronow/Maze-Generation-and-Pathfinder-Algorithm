@@ -3,7 +3,10 @@
  ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Description
+This program allows users to visualize the creation and completion of a maze. Once the program has been initialized and the maze
+is displayed, the user can choose to conduct either a Breadth-First-Search or a Depth-First-Search to complete the maze, as algorithms
+designed for the completion of both have been implemented within the program. The user may choose to create a new maze or begin a new
+search at any time.
 
 <h2>External Dependencies</h2>
 The JAR files contained in the Reference_Libraries directory must first be installed as dependencies
