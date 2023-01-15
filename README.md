@@ -1,6 +1,6 @@
 <h1>Maze Generation and Pathfinder Algorithm</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 Description
