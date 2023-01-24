@@ -1,6 +1,6 @@
 <h1>Maze Generation and Pathfinder Algorithm</h1>
 
- ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Video Demonstration](https://youtu.be/aD9REb_An1U)
 
 <h2>Description</h2>
 This program allows users to visualize the creation and completion of a maze. Once the program has been initialized and the maze
